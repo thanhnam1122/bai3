@@ -1,0 +1,21 @@
+.nd1{
+    width: 100%;
+    height: 80px;
+    background-color: rgb(80, 153, 80);
+
+}   
+
+.nd3{
+    width: 100%;
+    height: 50px;
+    background-color: rgb(218, 230, 218);
+}
+
+.dotted-line {
+    border-top: 1px dotted #000;
+    margin: 10px 0;
+    width: 100%;
+    content: "";
+    display: block;
+    height: 1px;
+}
